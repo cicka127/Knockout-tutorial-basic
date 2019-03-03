@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Knockout-basic",
+    "\\Knockout-basic\\Pages",
+    "\\Knockout-basic\\Pages\\Shared",
+    "\\Knockout-basic\\wwwroot",
+    "\\Knockout-basic\\wwwroot\\node_modules",
+    "\\Knockout-basic\\wwwroot\\node_modules\\knockout",
+    "\\Knockout-basic\\wwwroot\\node_modules\\knockout\\build",
+    "\\Knockout-basic\\wwwroot\\node_modules\\knockout\\build\\output",
+    "\\Knockout-basic\\wwwroot\\node_modules\\requirejs",
+    "\\Knockout-basic\\wwwroot\\viewModels"
+  ],
+  "SelectedNode": "\\Knockout-basic",
+  "PreviewInSolutionExplorer": false
+}
